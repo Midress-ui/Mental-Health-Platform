@@ -135,8 +135,8 @@ This project is a **Mental Health Platform** designed to provide support and res
 - SQLite
 - JavaScript
 - Virtual Environment
-- Flask==2.x.x
-- Flask-SQLAlchemy==2.x.x
+- Flask==3.1.0
+- Flask-SQLAlchemy==3.1.2
 
 ---
 
