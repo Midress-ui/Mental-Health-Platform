@@ -2,17 +2,3 @@ Flask==3.1.0
 Flask-SQLAlchemy==3.1.2
 Python==3.10.0
 Werkzeug==3.1.3
-
-
-
-
-# Criar um ambiente virtual
-virtualenv venv
-
-# Ativar o ambiente virtual
-source venv/bin/activate
-.\venv\Scripts\Activate.ps1
-
-
-# Instalar as dependências
-pip install -r requirements.txt
